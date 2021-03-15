@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "918817650316",
+    "firebase_url": "https://smart-weighing-scale.firebaseio.com",
+    "project_id": "smart-weighing-scale",
+    "storage_bucket": "smart-weighing-scale.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918817650316:android:2bd5958d504140b71feda9",
+        "android_client_info": {
+          "package_name": "com.trilogy.SmartWeighingScale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918817650316-ms3tvjj4jqqijlirv2fh3nad0v9brp4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9Rg3U5D1UadKEqZZaogV-61klrO6cqRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918817650316-ms3tvjj4jqqijlirv2fh3nad0v9brp4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
